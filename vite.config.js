@@ -7,7 +7,7 @@ import react from '@vitejs/plugin-react'
 // so the base becomes '/portfolioai/'. Adjust if your repo name differs.
 
 
-const repoBase = '/'
+const repoBase = '/bogani/'
 
 
 export default defineConfig(({ mode }) => ({
