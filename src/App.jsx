@@ -25,7 +25,7 @@ export default function App() {
       {/* Navbar */}
       <header className="sticky top-0 z-40 w-full bg-background/80 backdrop-blur">
         <nav className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3">
-          <a href="#hero" className="text-lg font-semibold text-primary">PortfolioAI</a>
+          <a href="#hero" className="text-lg font-semibold text-primary">Bogani</a>
           <div className="hidden gap-6 md:flex">
             <a href="#about" className="hover:text-primary">About</a>
             <a href="#skills" className="hover:text-primary">Skills</a>
